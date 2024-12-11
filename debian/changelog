@@ -1,0 +1,5 @@
+lxqt-wayland-session (0.1.1-1) unstable; urgency=medium
+
+  * Initial debian release (Closes: #1087520)
+
+ -- Don Xu <me@eipi.fun>  Wed, 11 Dec 2024 15:13:41 +0800
